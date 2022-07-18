@@ -143,6 +143,8 @@ allprojects {
 ## Link Docs Setup
 - https://docs.flutter.dev/development/add-to-app/android/project-setup
 - 
+- https://pahlevikun.medium.com/bridging-between-dart-and-native-code-with-flutter-channel-for-communicate-each-other-7c736929ee42
+
 
 
 
