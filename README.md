@@ -133,8 +133,17 @@ allprojects {
   ```
   
   - In Dependencies area
+
+  ```groovy
+  dependencies {
+    implementation project(':flutter')
+  }
+  ```
   
-  
+## Link Docs Setup
+- https://docs.flutter.dev/development/add-to-app/android/project-setup
+- 
+
 
 
 ## Getting Started Flutter Docs
