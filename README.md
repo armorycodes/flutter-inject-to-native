@@ -54,13 +54,8 @@ pluginManagement {
         google()
         mavenCentral()
         // Add these two maven entries.
-        maven {
-            url '../flutter-inject-to-native/build/host/outputs/repo'
-        }
-        maven {
-            url 'https://storage.googleapis.com/download.flutter.io'
-        }
-
+        maven { url '../flutter-inject-to-native/build/host/outputs/repo' }
+        maven { url 'https://storage.googleapis.com/download.flutter.io' }
     }
 }
 dependencyResolutionManagement {
@@ -69,12 +64,8 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         // Add these two maven entries.
-        maven {
-            url '../flutter-inject-to-native/build/host/outputs/repo'
-        }
-        maven {
-            url 'https://storage.googleapis.com/download.flutter.io'
-        }
+        maven { url '../flutter-inject-to-native/build/host/outputs/repo' }
+        maven { url 'https://storage.googleapis.com/download.flutter.io' }
     }
 }
 
@@ -95,12 +86,8 @@ allprojects {
         google()
         mavenCentral()
         // Add these two maven entries.
-        maven {
-            url '../../flutter-inject-to-native/build/host/outputs/repo'
-        }
-        maven {
-            url 'https://storage.googleapis.com/download.flutter.io'
-        }
+        maven { url '../../flutter-inject-to-native/build/host/outputs/repo' }
+        maven { url 'https://storage.googleapis.com/download.flutter.io' }
     }
 }
 ```
@@ -123,12 +110,8 @@ allprojects {
     google()
     mavenCentral()
     // Add these two maven entries.
-    maven {
-        url '../flutter-inject-to-native/build/host/outputs/repo'
-    }
-    maven {
-        url 'https://storage.googleapis.com/download.flutter.io'
-    }
+    maven { url '../flutter-inject-to-native/build/host/outputs/repo' }
+    maven { url 'https://storage.googleapis.com/download.flutter.io' }
   }
   ```
   
