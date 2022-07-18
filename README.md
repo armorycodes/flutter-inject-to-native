@@ -141,11 +141,18 @@ allprojects {
   ```
   
 ## Link Docs Setup
+### Docs
 - https://docs.flutter.dev/development/add-to-app/android/project-setup
-- 
+- https://github.com/flutter/samples/tree/main/add_to_app
+- https://medium.com/flutter/put-flutter-to-work-95f5fdcc592e
+- https://github.com/flutter/put-flutter-to-work
+- https://levelup.gitconnected.com/how-to-add-flutter-to-android-app-4d80d9820686
+- https://flatteredwithflutter.com/how-to-add-flutter-to-android-app/
 - https://pahlevikun.medium.com/bridging-between-dart-and-native-code-with-flutter-channel-for-communicate-each-other-7c736929ee42
 
-
+### Video
+- https://www.youtube.com/watch?v=-_k8R1X_oz0
+- https://www.youtube.com/watch?v=7gCILw0HLw4&t=446s
 
 
 ## Getting Started Flutter Docs
